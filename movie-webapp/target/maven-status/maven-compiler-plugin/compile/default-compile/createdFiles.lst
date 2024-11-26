@@ -1,0 +1,4 @@
+com\master\movieapp\service\MovieService$Movie.class
+com\master\movieapp\controller\HomeServlet.class
+com\master\movieapp\controller\MovieListServlet.class
+com\master\movieapp\service\MovieService.class
